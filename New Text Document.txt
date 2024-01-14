@@ -1,4 +1,4 @@
-pickleshare=0.7.5=pyhd3eb1b0_1003
+pickle
 streamlit
 numpy
 pandas
